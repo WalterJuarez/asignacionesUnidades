@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.onetoc2
+
+# Entornos virtuales
+.venv/
+venv/
+venv*/
+
+# PyInstaller
+build/
+dist/
+distPLCDiesel.zip
+
+# Reportes operativos locales
+reporte_despachos.xlsx
+
+# Configuración privada
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
